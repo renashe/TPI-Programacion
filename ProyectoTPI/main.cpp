@@ -7,12 +7,9 @@ using namespace std;
 
 #include "menu.h"
 #include "juego.h"
-#include "Limpiar.h"
 #include "dados.h"
 #include "tirar.h"
-#include "ronda1.h"
 #include "rlutil.h"
-#include "tiradainicial.h"
 
 int main() {
     srand(time(0));
