@@ -32,6 +32,8 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="Limpiar.cpp" />
+		<Unit filename="Limpiar.h" />
 		<Unit filename="dados.cpp" />
 		<Unit filename="dados.h" />
 		<Unit filename="juego.cpp" />
@@ -39,6 +41,13 @@
 		<Unit filename="main.cpp" />
 		<Unit filename="menu.cpp" />
 		<Unit filename="menu.h" />
+		<Unit filename="rlutil.h" />
+		<Unit filename="ronda1.cpp" />
+		<Unit filename="ronda1.h" />
+		<Unit filename="tiradainicial.cpp" />
+		<Unit filename="tiradainicial.h" />
+		<Unit filename="tirar.cpp" />
+		<Unit filename="tirar.h" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>

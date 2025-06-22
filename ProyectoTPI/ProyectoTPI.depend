@@ -29,3 +29,98 @@
 1750366744 source:c:\users\tatu\desktop\enfrendados\proyectotpi\dados.cpp
 	<iostream>
 
+1750613603 source:e:\progra\tpi-programacion-main\proyectotpi\dados.cpp
+	<iostream>
+
+1750460034 source:e:\progra\tpi-programacion-main\proyectotpi\juego.cpp
+	<iostream>
+	<cstdlib>
+	"tiradainicial.h"
+	"dados.h"
+	"TiradaDados.h"
+	"ronda1.h"
+
+1750613603 e:\progra\tpi-programacion-main\proyectotpi\dados.h
+
+1750562089 source:e:\progra\tpi-programacion-main\proyectotpi\main.cpp
+	<iostream>
+	<ctime>
+	<cstring>
+	<cstdlib>
+	"menu.h"
+	"juego.h"
+	"Limpiar.h"
+	"dados.h"
+	"TiradaDados.h"
+	"ronda1.h"
+	"rlutil.h"
+	"tiradainicial.h"
+
+1750367218 e:\progra\tpi-programacion-main\proyectotpi\menu.h
+
+1750450813 e:\progra\tpi-programacion-main\proyectotpi\juego.h
+
+1750367218 source:e:\progra\tpi-programacion-main\proyectotpi\menu.cpp
+	<iostream>
+	<cstdlib>
+
+1750615371 e:\progra\tpi-programacion-main\proyectotpi\tiradainicial.h
+	<iostream>
+	<cstdlib>
+
+1750615374 source:e:\progra\tpi-programacion-main\proyectotpi\tiradainicial.cpp
+	<iostream>
+	<cstdlib>
+	"dados.h"
+	"Limpiar.h"
+
+1750562416 source:e:\progra\tpi-programacion-main\proyectotpi\limpiar.cpp
+	<iostream>
+	<cstdlib>
+
+1750562437 e:\progra\tpi-programacion-main\proyectotpi\limpiar.h
+
+1750616922 source:e:\progra\tpi-programacion-main\proyectotpi\tiradadados.cpp
+	<iostream>
+	<cstdlib>
+	"dados.h"
+	"tiradainicial.h"
+	"Limpiar.h"
+	"rlutil.h"
+
+1750616629 e:\progra\tpi-programacion-main\proyectotpi\tiradadados.h
+
+1750460027 e:\progra\tpi-programacion-main\proyectotpi\ronda1.h
+
+1750560897 source:e:\progra\tpi-programacion-main\proyectotpi\primeraronda.cpp
+	<iostream>
+	<cstdlib>
+	"tiradainicial.h"
+	"TiradaDados.h"
+	"dados.h"
+
+1750463240 e:\progra\tpi-programacion-main\proyectotpi\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1750562620 source:e:\progra\tpi-programacion-main\proyectotpi\pasardados.cpp
+	<iostream>
+
+1750616987 source:e:\progra\tpi-programacion-main\proyectotpi\ronda1.cpp
+	<iostream>
+	<cstdlib>
+	"tiradainicial.h"
+	"TiradaDados.h"
+	"dados.h"
+	"Limpiar.h"
+

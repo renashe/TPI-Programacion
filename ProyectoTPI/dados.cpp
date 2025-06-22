@@ -27,4 +27,5 @@ void mostrarDados(int dados[], int cantidad) {
         cout << "[" << dados[i] << "] ";
     }
     cout << endl;
+
 }
